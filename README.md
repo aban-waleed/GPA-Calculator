@@ -4,4 +4,4 @@
 
 A GPA calculator that calculates the GPA for given number of class. It can calculate using percentage or letter grades to give either a range of 4 GPA or a percentage GPA
 
-The project was created by me and my friend (Noor Haider). This was our first python project.
+The project was created by me and my friend [Noor Haider](https://github.com/Noor-Haider/). This was our first python project.
